@@ -1,1 +1,4 @@
 System.out.println("Pierwszy tekst);
+
+
+System.out.println("Zmiana w pierwszym pliku);
